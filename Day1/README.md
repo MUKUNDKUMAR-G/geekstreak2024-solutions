@@ -44,6 +44,7 @@ arr[] = ["abc", "bcd", "cdf"]
 
 ### Explanation:
 
+![Example1](./Example1.jpg)
 These strings can't form a circle because no string starts with 'd'.
 
 ### Example 2
@@ -63,6 +64,7 @@ These strings can't form a circle because no string starts with 'd'.
 
 #### Explanation:
 
+![Example2](./Example2.jpg)
 The strings can form a circle as "ab" -> "bc" -> "cd" -> "da".
 
 ## 🧠 Approach and Solution
