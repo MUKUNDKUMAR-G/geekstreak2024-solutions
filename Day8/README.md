@@ -80,11 +80,11 @@ The array can be modified as {6, 12, 9, 13, 17}. The difference between the larg
 
 # Time Complexity
 
-O(n), where n is the length of the string.
+O(|x|), where |x| is the length of the string.
 
 # Space Complexity
 
-O(n) for the stack used in the algorithm.
+O(|x|), where |x| is the length of the string.
 
 # Contributions
 
